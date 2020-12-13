@@ -1,10 +1,10 @@
 <script lang="ts">
-import Table from "./Table.svelte";
+  import Table from './Table.svelte'
 </script>
 
 <style>
 </style>
 
 <main>
-	<Table />
+  <Table />
 </main>
